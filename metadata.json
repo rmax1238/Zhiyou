@@ -1,0 +1,6 @@
+{
+  "name": "极光智邮 (AuroraMail) - 智能邮箱管理与多模型AI助手",
+  "description": "现代化移动自适应邮箱管理客户端，支持用户账户独立数据隔离、IMAP/SMTP安全协议、推送通知、实时更新、多服务商自定义AI模型调度、智能邮件总结与翻译。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
